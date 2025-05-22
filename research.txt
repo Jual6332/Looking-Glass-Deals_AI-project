@@ -1,0 +1,4 @@
+# Useful links
+1. How to Deploy Django Application on Heroku 
+- https://www.geeksforgeeks.org/how-to-deploy-django-application-on-heroku/
+
